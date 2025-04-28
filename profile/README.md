@@ -18,4 +18,11 @@ drawDB is an online database entity-relationship diagram editor and SQL generato
 
 If you need anything, have an idea, or just want to say hi, feel free to send an email to drawdb@outlook.com or message us on Discord.
 
-Thank you everyone for the support and feedback ❤️.
+### Special thanks to
+
+<a href="https://www.warp.dev/drawdb/" target="_blank">
+<img alt="Warp sponsorship" width="280" src="https://github.com/user-attachments/assets/027ed451-5ed7-4429-a93e-875a5e695fa3">
+<br>
+<b>Next-gen AI-powered intelligent terminal for all platforms</b>
+</a>
+
