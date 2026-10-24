@@ -16,6 +16,6 @@
 
 drawDB is an online database entity-relationship diagram editor and SQL generator. Design, visualize stunning diagrams, and export scripts without an account and completely free of charge. See the full set of features [here](https://www.drawdb.app).
 
-If you need anything, have an idea, or just want to say hi, feel free to send an email to drawdb@outlook.com or message us on Discord.
+If you need anything, have an idea, or just want to say hi, feel free to send an email to support@drawdb.app or message us on Discord.
 
 
